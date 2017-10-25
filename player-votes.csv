@@ -1,0 +1,460 @@
+,Vote,Country,Name,First,Second,Third
+0,Captain,Albania,Agolli Ansi,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+1,Captain,Algeria,Mbolhi Adi Rais,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+2,Captain,American Samoa,Ott Ramin,Cristiano Ronaldo,Neymar,Dybala Paulo
+3,Captain,Andorra,Lima Sola Ildefons,Neymar,Modric Luka,Buffon Gianluigi
+4,Captain,Angola,Gaspar Wilson Pinto,Cristiano Ronaldo,Ramos Sergio,Modric Luka
+5,Captain,Argentina,Messi Lionel,Suárez Luis,Iniesta Andrés,Neymar
+6,Captain,Armenia,Mkhitaryan Henrikh,Cristiano Ronaldo,Buffon Gianluigi,Neymar
+7,Captain,Aruba,Nickenson Paul,Cristiano Ronaldo,Messi Lionel,Neymar
+8,Captain,Australia,Jedinak Mile,Cristiano Ronaldo,Messi Lionel,Modric Luka
+9,Captain,Austria,Baumgartlinger Julian,Cristiano Ronaldo,Kroos Toni,Dybala Paulo
+10,Captain,Azerbaijan,Sadygov Rashad,Cristiano Ronaldo,Neymar,Messi Lionel
+11,Captain,Bahamas,St Fleur Lesly,Kanté N'Golo,Messi Lionel,Dybala Paulo
+12,Captain,Bahrain,Abbas Mohamed,Cristiano Ronaldo,Neymar,Messi Lionel
+13,Captain,Bangladesh,Mamun Md Mamunul,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+14,Captain,Barbados,Mario Harte,Aubameyang Pierre-Emerick,Griezmann Antoine,Neuer Manuel
+15,Captain,Belarus,Filipenko Egor,Cristiano Ronaldo,Messi Lionel,Modric Luka
+16,Captain,Belgium,Hazard Eden,Kanté N'Golo,Cristiano Ronaldo,Modric Luka
+17,Captain,Belize,Elroy Smith,Ramos Sergio,Neymar,Sanchez Alexis
+18,Captain,Bermuda,Lambe Reggie,Cristiano Ronaldo,Modric Luka,Messi Lionel
+19,Captain,Bhutan,Shedrup Karma,Cristiano Ronaldo,Messi Lionel,Sanchez Alexis
+20,Captain,Bosnia and Herzegovina,Džeko Edin,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+21,Captain,Brazil,Alves Da Silva Daniel,Neymar,Messi Lionel,Cristiano Ronaldo
+22,Captain,British Virgin Islands,Ceasar Kavon Troy,Cristiano Ronaldo,Neymar,Kane Harry
+23,Captain,Burkina Faso,Kabore Charle,Messi Lionel,Marcelo,Neymar
+24,Captain,Burundi,Duhayindavyi Gael,Cristiano Ronaldo,Messi Lionel,Dybala Paulo
+25,Captain,Cambodia,Khuon Laboravy,Messi Lionel,Cristiano Ronaldo,Neymar
+26,Captain,Cameroon,Moukandjo Benjamin,Messi Lionel,Marcelo,Cristiano Ronaldo
+27,Captain,Canada,Hutchinson Atiba,Cristiano Ronaldo,Messi Lionel,Ramos Sergio
+28,Captain,Chad,Gassina Ferdinand,Cristiano Ronaldo,Messi Lionel,Neymar
+29,Captain,China PR,Zheng Zhi,Cristiano Ronaldo,Buffon Gianluigi,Kroos Toni
+30,Captain,Chinese Taipei,Chen Yi-Wei,Ibrahimovic Zlatan,Marcelo,Sanchez Alexis
+31,Captain,Colombia,Rodriguez Rubio James David,Cristiano Ronaldo,Ramos Sergio,Lewandowski Robert
+32,Captain,Congo,Oniangue Alban Prince,Messi Lionel,Cristiano Ronaldo,Ramos Sergio
+33,Captain,Cook Islands,Jake Stuart,Cristiano Ronaldo,Ibrahimovic Zlatan,Messi Lionel
+34,Captain,Costa Rica,Ruiz Gonzalez Bryan,Navas Keylor,Cristiano Ronaldo,Ramos Sergio
+35,Captain,Croatia,Modric Luka,Cristiano Ronaldo,Messi Lionel,Kroos Toni
+36,Captain,Cuba,Saez Daniel,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+37,Captain,Cyprus,Charalambides Constantinos,Cristiano Ronaldo,Messi Lionel,Neymar
+38,Captain,Czech Republic,Suchý Marek,Cristiano Ronaldo,Messi Lionel,Bonucci Leonardo
+39,Captain,Denmark,Kjær Simon,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+40,Captain,Djibouti,Daher Mohamed-Kader,Cristiano Ronaldo,Messi Lionel,Marcelo
+41,Captain,Dominica,Bertrand Euclid,Kanté N'Golo,Cristiano Ronaldo,Marcelo
+42,Captain,Dominican Republic,Martinez Hanleys,Cristiano Ronaldo,Messi Lionel,Neymar
+43,Captain,Ecuador,Ayoví Corozo Walter,Neymar,Messi Lionel,Cristiano Ronaldo
+44,Captain,Egypt,El Hadary Essam,Cristiano Ronaldo,Neymar,Messi Lionel
+45,Captain,El Salvador,Ceren Darwin,Cristiano Ronaldo,Neymar,Messi Lionel
+46,Captain,England,Henderson Jordan,Cristiano Ronaldo,Messi Lionel,Suárez Luis
+47,Captain,Estonia,Klavan Ragnar,Cristiano Ronaldo,Hazard Eden,Messi Lionel
+48,Captain,Ethiopia,Getaneh Kebebde,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+49,Captain,Faroe Islands,Gregersen Atli,Cristiano Ronaldo,Messi Lionel,Ramos Sergio
+50,Captain,Finland,Moisander Niklas,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+51,Captain,France,Lloris Hugo,Cristiano Ronaldo,Ramos Sergio,Kane Harry
+52,Captain,FYR Macedonia,Pandev Goran,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+53,Captain,Gabon,Ecuele Manga Bruno,Cristiano Ronaldo,Messi Lionel,Aubameyang Pierre-Emerick
+54,Captain,Gambia,Colley Omar,Cristiano Ronaldo,Aubameyang Pierre-Emerick,Ramos Sergio
+55,Captain,Georgia,Kankava Jaba,Cristiano Ronaldo,Messi Lionel,Neymar
+56,Captain,Germany,Neuer Manuel,Kroos Toni,Lewandowski Robert,Vidal Arturo
+57,Captain,Gibraltar,Chipolina Roy,Cristiano Ronaldo,Buffon Gianluigi,Dybala Paulo
+58,Captain,Greece,Torosidis Vasileios,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+59,Captain,Guinea-Bissau,Mendes Lope José Luis,Cristiano Ronaldo,Aubameyang Pierre-Emerick,Neymar
+60,Captain,Honduras,Figueroa Rochez Maynor Alexis,Cristiano Ronaldo,Neymar,Modric Luka
+61,Captain,Hong Kong,Yapp Hung Fai,Cristiano Ronaldo,Buffon Gianluigi,Ibrahimovic Zlatan
+62,Captain,Hungary,Dzsudzsák Balázs,Neymar,Messi Lionel,Cristiano Ronaldo
+63,Captain,Iceland,Gunnarsson Aron Einar,Cristiano Ronaldo,Neymar,Modric Luka
+64,Captain,India,Chhetri Sunil,Ramos Sergio,Cristiano Ronaldo,Messi Lionel
+65,Captain,Indonesia,Salossa Boas,Cristiano Ronaldo,Neymar,Ramos Sergio
+66,Captain,Iran,Hosseini Seyed Jalal,Cristiano Ronaldo,Messi Lionel,Neymar
+67,Captain,Iraq,Mohammed Kasid,Cristiano Ronaldo,Neymar,Messi Lionel
+68,Captain,Israel,Zahavi Eran,Cristiano Ronaldo,Messi Lionel,Dybala Paulo
+69,Captain,Italy,Buffon Gianluigi,Cristiano Ronaldo,Dybala Paulo,Modric Luka
+70,Captain,Jamaica,Blake Andre,Cristiano Ronaldo,Messi Lionel,Neymar
+71,Captain,Japan,Hasebe Makoto,Cristiano Ronaldo,Bonucci Leonardo,Modric Luka
+72,Captain,Jordan,Shafi' Amer,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+73,Captain,Kazakhstan,Islamkhan Bauyrzhan,Messi Lionel,Cristiano Ronaldo,Iniesta Andrés
+74,Captain,Korea Republic,Ki Sungyueng,Cristiano Ronaldo,Modric Luka,Messi Lionel
+75,Captain,Kosovo,Ujkani Samir,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+76,Captain,Kyrgyz Republic,Baimatov Azamat,Cristiano Ronaldo,Messi Lionel,Ramos Sergio
+77,Captain,Laos,Sayavoutthi Khampheng,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+78,Captain,Latvia,Gorkšss Kaspars,Cristiano Ronaldo,Messi Lionel,Bonucci Leonardo
+79,Captain,Lebanon,Maatouk Hassan,Cristiano Ronaldo,Messi Lionel,Neymar
+80,Captain,Liberia,Dennis Teah,Cristiano Ronaldo,Messi Lionel,Ramos Sergio
+81,Captain,Liechtenstein,Jehle Peter,Cristiano Ronaldo,Kroos Toni,Buffon Gianluigi
+82,Captain,Lithuania,Cernych Fedor,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+83,Captain,Luxembourg,Mutsch Mario,Kroos Toni,Cristiano Ronaldo,Ramos Sergio
+84,Captain,Macau,Cheang Cheng Ieong Paulo,Cristiano Ronaldo,Kanté N'Golo,Messi Lionel
+85,Captain,Madagascar,Andriatsima Faneva,Cristiano Ronaldo,Neymar,Marcelo
+86,Captain,Maldives,Ashfaq Ali,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+87,Captain,Malta,Mifsud Michael,Cristiano Ronaldo,Messi Lionel,Ramos Sergio
+88,Captain,Mauritius,Bru Kevin,Modric Luka,Cristiano Ronaldo,Messi Lionel
+89,Captain,Mexico,Guardado Andres,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+90,Captain,Moldova,Epureanu Alexandru,Cristiano Ronaldo,Messi Lionel,Ramos Sergio
+91,Captain,Mongolia,Daginaa Turbat,Cristiano Ronaldo,Ramos Sergio,Dybala Paulo
+92,Captain,Montenegro,Jovetic Stevan,Messi Lionel,Neymar,Cristiano Ronaldo
+93,Captain,Montserrat,Griffith Anthony,Suárez Luis,Kane Harry,Kanté N'Golo
+94,Captain,Morocco,Elmoutaki Mehdi,Buffon Gianluigi,Dybala Paulo,Cristiano Ronaldo
+95,Captain,Mozambique,Pelembe Elias,Cristiano Ronaldo,Messi Lionel,Aubameyang Pierre-Emerick
+96,Captain,Myanmar,Kyaw Yan Aung,Cristiano Ronaldo,Neymar,Messi Lionel
+97,Captain,Namibia,Ketjijere Ronald,Cristiano Ronaldo,Messi Lionel,Neymar
+98,Captain,Nepal,Maharjan Biraj,Ibrahimovic Zlatan,Griezmann Antoine,Cristiano Ronaldo
+99,Captain,Netherlands,Robben Arjan,Cristiano Ronaldo,Ramos Sergio,Marcelo
+100,Captain,New Caledonia,Wakanumune Joel,Ramos Sergio,Cristiano Ronaldo,Neymar
+101,Captain,Nicaragua,Rosas Manuel,Cristiano Ronaldo,Modric Luka,Buffon Gianluigi
+102,Captain,Nigeria,Obi John Mikel,Messi Lionel,Cristiano Ronaldo,Buffon Gianluigi
+103,Captain,Northern Ireland,Davis Steven,Cristiano Ronaldo,Messi Lionel,Modric Luka
+104,Captain,Norway,Johansen Stefan,Cristiano Ronaldo,Marcelo,Modric Luka
+105,Captain,Oman,Ahmed Al Mahaijri,Cristiano Ronaldo,Messi Lionel,Kroos Toni
+106,Captain,Pakistan,Hussain Saddam,Cristiano Ronaldo,Messi Lionel,Ramos Sergio
+107,Captain,Palestine,Albhdari Abdellatif,Buffon Gianluigi,Cristiano Ronaldo,Iniesta Andrés
+108,Captain,Papua New Guinea,Michael Foster,Messi Lionel,Iniesta Andrés,Kroos Toni
+109,Captain,Peru,Guerrero Gonzales Paolo,Messi Lionel,Cristiano Ronaldo,Buffon Gianluigi
+110,Captain,Poland,Lewandowski Robert,Neuer Manuel,Vidal Arturo,Cristiano Ronaldo
+111,Captain,Portugal,Ronaldo Cristiano,Modric Luka,Ramos Sergio,Marcelo
+112,Captain,Qatar,Alhaydous Hasan,Cristiano Ronaldo,Neymar,Buffon Gianluigi
+113,Captain,Republic of Ireland,Coleman Seamus,Cristiano Ronaldo,Messi Lionel,Dybala Paulo
+114,Captain,Romania,Chiriches Vlad,Cristiano Ronaldo,Neymar,Marcelo
+115,Captain,Russia,Akinfeev Igor,Cristiano Ronaldo,Vidal Arturo,Buffon Gianluigi
+116,Captain,Samoa,Desmond Faaiuaso,Cristiano Ronaldo,Griezmann Antoine,Buffon Gianluigi
+117,Captain,San Marino,Simoncini Aldo Junior,Cristiano Ronaldo,Buffon Gianluigi,Navas Keylor
+118,Captain,Saudi Arabia,Hawsawi Osama,Cristiano Ronaldo,Neymar,Messi Lionel
+119,Captain,Scotland,Brown Scott,Cristiano Ronaldo,Messi Lionel,Neymar
+120,Captain,Serbia,Ivanovic Branislav,Cristiano Ronaldo,Messi Lionel,Neymar
+121,Captain,Sierra Leone,Bangura Umaru,Messi Lionel,Cristiano Ronaldo,Marcelo
+122,Captain,Singapore,Ishak Shahril,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+123,Captain,Slovakia,Skrtel Martin,Cristiano Ronaldo,Suárez Luis,Ramos Sergio
+124,Captain,Slovenia,Cesar Boštjan,Cristiano Ronaldo,Buffon Gianluigi,Neymar
+125,Captain,South Africa,Hlatshwayo Thulani,Cristiano Ronaldo,Ramos Sergio,Hazard Eden
+126,Captain,Spain,Ramos Garcia Sergio,Cristiano Ronaldo,Messi Lionel,Modric Luka
+127,Captain,St. Lucia,Poleon Randy,Neymar,Cristiano Ronaldo,Messi Lionel
+128,Captain,Sudan,Osman Mohamed Tahir,Cristiano Ronaldo,Carvajal Dani,Aubameyang Pierre-Emerick
+129,Captain,Sweden,Granqvist Andreas,Cristiano Ronaldo,Ibrahimovic Zlatan,Buffon Gianluigi
+130,Captain,Switzerland,Lichtsteiner Stefan,Cristiano Ronaldo,Ramos Sergio,Buffon Gianluigi
+131,Captain,Syria,Alkhatib Firas,Messi Lionel,Neymar,Ramos Sergio
+132,Captain,Tahiti,Tehau Alvin,Cristiano Ronaldo,Kanté N'Golo,Messi Lionel
+133,Captain,Tajikistan,Fatkhulloev Fatkhuloo,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+134,Captain,Tanzania,Samatta Mbwana,Neymar,Kanté N'Golo,Aubameyang Pierre-Emerick
+135,Captain,Thailand,Thamsatchanan Kawin,Neuer Manuel,Kroos Toni,Griezmann Antoine
+136,Captain,Togo,Adebayor Shéyi,Cristiano Ronaldo,Neymar,Buffon Gianluigi
+137,Captain,Tonga,Uhatahi Mark,Messi Lionel,Neymar,Cristiano Ronaldo
+138,Captain,Trinidad and Tobago,Bateau Sheldon,Buffon Gianluigi,Kanté N'Golo,Neymar
+139,Captain,Tunisia,Mathlouthi Aymen,Cristiano Ronaldo,Neymar,Buffon Gianluigi
+140,Captain,Turkey,Belözoglu Emre,Messi Lionel,Cristiano Ronaldo,Buffon Gianluigi
+141,Captain,Turkmenistan,Amanov Arslanmyrat,Cristiano Ronaldo,Ibrahimovic Zlatan,Messi Lionel
+142,Captain,Uganda,Onyango Denis,Cristiano Ronaldo,Messi Lionel,Neymar
+143,Captain,Ukraine,Piatov Andriy,Cristiano Ronaldo,Buffon Gianluigi,Marcelo
+144,Captain,Uruguay,Godin Diego,Suárez Luis,Griezmann Antoine,Messi Lionel
+145,Captain,USA,Bradley Michael,Cristiano Ronaldo,Ramos Sergio,Messi Lionel
+146,Captain,Uzbekistan,Akhmedov Odil,Messi Lionel,Cristiano Ronaldo,Neymar
+147,Captain,Venezuela,Rincón Hernández Tomas Eduardo,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+148,Captain,Vietnam,Nguyen Van Quyet,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+149,Captain,Zambia,Mweene Kennedy,Cristiano Ronaldo,Kanté N'Golo,Marcelo
+150,Captain,Zimbabwe,Musona Knowledge,Cristiano Ronaldo,Messi Lionel,Kroos Toni
+151,Coach,Albania,Panucci Christian,Cristiano Ronaldo,Messi Lionel,Neymar
+152,Coach,Algeria,Alcaraz Gonzalez Luis Lucas,Neymar,Messi Lionel,Ramos Sergio
+153,Coach,American Samoa,Amisone Liatama Jr,Messi Lionel,Cristiano Ronaldo,Neymar
+154,Coach,Andorra,Alvarez De Eulate Jesus Luis,Messi Lionel,Cristiano Ronaldo,Buffon Gianluigi
+155,Coach,Angola,Bianchi Roberto Luiz Pelliser,Messi Lionel,Neymar,Bonucci Leonardo
+156,Coach,Argentina,Sampaoli Jorge,Messi Lionel,Cristiano Ronaldo,Marcelo
+157,Coach,Armenia,Petrosyan Artur,Cristiano Ronaldo,Buffon Gianluigi,Neymar
+158,Coach,Aruba,Koopman Martin,Messi Lionel,Neymar,Cristiano Ronaldo
+159,Coach,Australia,Postecoglou Ange,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+160,Coach,Austria,Koller Marcel,Cristiano Ronaldo,Messi Lionel,Neymar
+161,Coach,Azerbaijan,Prosinecki Robert,Messi Lionel,Cristiano Ronaldo,Modric Luka
+162,Coach,Bahamas,Godet Dion,Messi Lionel,Cristiano Ronaldo,Kane Harry
+163,Coach,Bahrain,Soukup Miroslav,Cristiano Ronaldo,Messi Lionel,Marcelo
+164,Coach,Bangladesh,Ord Andrew,Suárez Luis,Griezmann Antoine,Buffon Gianluigi
+165,Coach,Barbados,Mohamed Ahmed,Aubameyang Pierre-Emerick,Kanté N'Golo,Neymar
+166,Coach,Belarus,Kriushenko Igor,Messi Lionel,Cristiano Ronaldo,Dybala Paulo
+167,Coach,Belgium,Martinez Roberto,Hazard Eden,Cristiano Ronaldo,Modric Luka
+168,Coach,Belize,Richard Orlowski,Lewandowski Robert,Buffon Gianluigi,Iniesta Andrés
+169,Coach,Bermuda,Lightbourne Kyle,Cristiano Ronaldo,Hazard Eden,Dybala Paulo
+170,Coach,Bhutan,Splitter Torsten,Cristiano Ronaldo,Messi Lionel,Neymar
+171,Coach,Bosnia and Herzegovina,Baždarevic Mehmed,Cristiano Ronaldo,Ramos Sergio,Buffon Gianluigi
+172,Coach,Brazil,Bachi Adenor Leonardo,Cristiano Ronaldo,Neymar,Messi Lionel
+173,Coach,British Virgin Islands,Falopa Marcos,Neymar,Cristiano Ronaldo,Messi Lionel
+174,Coach,Burkina Faso,Paolo Duarte,Cristiano Ronaldo,Messi Lionel,Neymar
+175,Coach,Burundi,Niyungeko Alain Olivier,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+176,Coach,Cambodia,Leonardo Vitorino,Neymar,Cristiano Ronaldo,Messi Lionel
+177,Coach,Cameroon,Broos Hugo,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+178,Coach,Canada,Zambrano Octavio,Cristiano Ronaldo,Vidal Arturo,Messi Lionel
+179,Coach,Chad,Mahamat Oumar Yaya,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+180,Coach,China PR,Lippi Marcello,Cristiano Ronaldo,Modric Luka,Buffon Gianluigi
+181,Coach,Chinese Taipei,Kuroda Kazuo,Buffon Gianluigi,Cristiano Ronaldo,Modric Luka
+182,Coach,Colombia,Pekerman Jose,Messi Lionel,Modric Luka,Lewandowski Robert
+183,Coach,Congo,Migne Sébastien Bernard Henri Clément,Cristiano Ronaldo,Buffon Gianluigi,Modric Luka
+184,Coach,Cook Islands,Ibrom Jess,Cristiano Ronaldo,Messi Lionel,Ibrahimovic Zlatan
+185,Coach,Costa Rica,Ramirez Hernández Oscar,Navas Keylor,Cristiano Ronaldo,Modric Luka
+186,Coach,Croatia,Cacic Ante,Cristiano Ronaldo,Modric Luka,Messi Lionel
+187,Coach,Cuba,Mendes Jose,Cristiano Ronaldo,Neymar,Buffon Gianluigi
+188,Coach,Cyprus,Ran Ben Shimon,Messi Lionel,Cristiano Ronaldo,Aubameyang Pierre-Emerick
+189,Coach,Czech Republic,Jarolím Karel,Cristiano Ronaldo,Kroos Toni,Neymar
+190,Coach,Denmark,Hareide Åge,Cristiano Ronaldo,Messi Lionel,Ibrahimovic Zlatan
+191,Coach,Djibouti,Khassoum Moussa,Cristiano Ronaldo,Messi Lionel,Marcelo
+192,Coach,Dominica,Latchoo Rajesh,Cristiano Ronaldo,Navas Keylor,Marcelo
+193,Coach,Dominican Republic,Mojica Juan,Cristiano Ronaldo,Messi Lionel,Neymar
+194,Coach,Ecuador,Quinteros Gustavo Domingo,Cristiano Ronaldo,Vidal Arturo,Buffon Gianluigi
+195,Coach,Egypt,Cuper Hector,Messi Lionel,Cristiano Ronaldo,Neymar
+196,Coach,El Salvador,Lara Lozano Eduardo,Cristiano Ronaldo,Messi Lionel,Neymar
+197,Coach,England,Southgate Gareth,Cristiano Ronaldo,Modric Luka,Kroos Toni
+198,Coach,Estonia,Reim Martin,Cristiano Ronaldo,Hazard Eden,Buffon Gianluigi
+199,Coach,Ethiopia,Zerihun Shengeta,Cristiano Ronaldo,Messi Lionel,Kanté N'Golo
+200,Coach,Faroe Islands,Olsen Lars,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+201,Coach,Finland,Kanerva Markku,Cristiano Ronaldo,Bonucci Leonardo,Messi Lionel
+202,Coach,France,Deschamps Didier,Cristiano Ronaldo,Neymar,Buffon Gianluigi
+203,Coach,FYR Macedonia,Angelovski Igor,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+204,Coach,Gabon,Camacho Alfaro Jose Antonio,Cristiano Ronaldo,Messi Lionel,Ramos Sergio
+205,Coach,Gambia,Ndong Sang,Cristiano Ronaldo,Kanté N'Golo,Aubameyang Pierre-Emerick
+206,Coach,Georgia,Weiss Vladimir,Messi Lionel,Cristiano Ronaldo,Modric Luka
+207,Coach,Germany,Löw Joachim,Kroos Toni,Neuer Manuel,Neymar
+208,Coach,Gibraltar,Wood Jeff,Cristiano Ronaldo,Kanté N'Golo,Messi Lionel
+209,Coach,Greece,Skibbe Michael Heinz,Kroos Toni,Hazard Eden,Aubameyang Pierre-Emerick
+210,Coach,Guinea-Bissau,Candé Baciro,Cristiano Ronaldo,Messi Lionel,Aubameyang Pierre-Emerick
+211,Coach,Honduras,Pinto Afanador Jorge Luis,Cristiano Ronaldo,Neymar,Ramos Sergio
+212,Coach,Hong Kong,Kim Pangon,Cristiano Ronaldo,Messi Lionel,Ramos Sergio
+213,Coach,Hungary,Storck Bernd,Cristiano Ronaldo,Kroos Toni,Neymar
+214,Coach,Iceland,Hallgrimsson Heimir,Cristiano Ronaldo,Neymar,Buffon Gianluigi
+215,Coach,India,Constantine Stephen Philip,Aubameyang Pierre-Emerick,Kanté N'Golo,Kroos Toni
+216,Coach,Indonesia,Milla Aspas Luis,Messi Lionel,Neymar,Iniesta Andrés
+217,Coach,Iran,Queiroz Carlos,Cristiano Ronaldo,Messi Lionel,Neymar
+218,Coach,Iraq,Basim Qasim,Cristiano Ronaldo,Neuer Manuel,Neymar
+219,Coach,Israel,Levy Elish,Cristiano Ronaldo,Ramos Sergio,Aubameyang Pierre-Emerick
+220,Coach,Italy,Ventura Giampiero,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+221,Coach,Jamaica,Whitmore Theodore,Neymar,Ramos Sergio,Vidal Arturo
+222,Coach,Japan,Halilhodzic Vahid,Cristiano Ronaldo,Messi Lionel,Neymar
+223,Coach,Jordan,Mesfer Abdulla,Cristiano Ronaldo,Messi Lionel,Dybala Paulo
+224,Coach,Kazakhstan,Borodyuk Aleksandr,Messi Lionel,Cristiano Ronaldo,Kroos Toni
+225,Coach,Korea Republic,Shin Taeyong,Messi Lionel,Buffon Gianluigi,Cristiano Ronaldo
+226,Coach,Kosovo,Bunjaku Albert,Cristiano Ronaldo,Modric Luka,Messi Lionel
+227,Coach,Kyrgyz Republic,Krestinin Alexander,Cristiano Ronaldo,Neymar,Kanté N'Golo
+228,Coach,Laos,Wong Mike,Cristiano Ronaldo,Griezmann Antoine,Messi Lionel
+229,Coach,Latvia,Starkovs Aleksandrs,Cristiano Ronaldo,Messi Lionel,Ramos Sergio
+230,Coach,Lebanon,Radulovic Miodrag,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+231,Coach,Liberia,Debbah James Salinsa,Cristiano Ronaldo,Messi Lionel,Ramos Sergio
+232,Coach,Liechtenstein,Pauritsch Rene,Cristiano Ronaldo,Iniesta Andrés,Modric Luka
+233,Coach,Lithuania,Jankauskas Edgaras,Cristiano Ronaldo,Messi Lionel,Modric Luka
+234,Coach,Luxembourg,Holtz Luc,Cristiano Ronaldo,Dybala Paulo,Kroos Toni
+235,Coach,Macau,Chan Hiu Ming,Buffon Gianluigi,Griezmann Antoine,Kanté N'Golo
+236,Coach,Madagascar,Dupuis Nicolas,Neymar,Ramos Sergio,Kroos Toni
+237,Coach,Maldives,Stewart Darren Raymond,Cristiano Ronaldo,Messi Lionel,Modric Luka
+238,Coach,Malta,Ghedin Pietro,Buffon Gianluigi,Lewandowski Robert,Modric Luka
+239,Coach,Mauritius,Francisco Filho Joaquim,Neymar,Cristiano Ronaldo,Messi Lionel
+240,Coach,Mexico,Osorio Juan Carlos,Cristiano Ronaldo,Vidal Arturo,Marcelo
+241,Coach,Moldova,Dobrovolskiy Igor,Cristiano Ronaldo,Messi Lionel,Ramos Sergio
+242,Coach,Mongolia,Weiss Michael,Cristiano Ronaldo,Ibrahimovic Zlatan,Messi Lionel
+243,Coach,Montenegro,Tumbakovic Ljubisa,Messi Lionel,Neymar,Cristiano Ronaldo
+244,Coach,Montserrat,Mendes Junoir,Cristiano Ronaldo,Kanté N'Golo,Hazard Eden
+245,Coach,Morocco,Renard Herve,Cristiano Ronaldo,Messi Lionel,Neymar
+246,Coach,Mozambique,Xavier Abel,Cristiano Ronaldo,Messi Lionel,Neymar
+247,Coach,Myanmar,Zeise Gerd,Cristiano Ronaldo,Messi Lionel,Neymar
+248,Coach,Namibia,Mannetti Ricardo,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+249,Coach,Nepal,Gyotoku Koji,Cristiano Ronaldo,Messi Lionel,Neymar
+250,Coach,Netherlands,Advocaat Dick,Messi Lionel,Cristiano Ronaldo,Neymar
+251,Coach,New Caledonia,Sardo Thierry,Cristiano Ronaldo,Neymar,Lewandowski Robert
+252,Coach,Nicaragua,Duarte Molina Henry,Cristiano Ronaldo,Navas Keylor,Neymar
+253,Coach,Nigeria,Rohr Gernot,Messi Lionel,Griezmann Antoine,Neuer Manuel
+254,Coach,Northern Ireland,O'Neill Michael,Cristiano Ronaldo,Hazard Eden,Kanté N'Golo
+255,Coach,Norway,Hansen Per Joar,Kroos Toni,Messi Lionel,Neymar
+256,Coach,Oman,Verbeek Peter,Cristiano Ronaldo,Messi Lionel,Neymar
+257,Coach,Pakistan,Mehmood Sajjad,Cristiano Ronaldo,Neymar,Messi Lionel
+258,Coach,Palestine,Barakat Abdelnaser,Cristiano Ronaldo,Buffon Gianluigi,Suárez Luis
+259,Coach,Papua New Guinea,Serritslev Flemming,Messi Lionel,Cristiano Ronaldo,Neymar
+260,Coach,Peru,Gareca Nardi Ricardo,Messi Lionel,Cristiano Ronaldo,Ramos Sergio
+261,Coach,Poland,Nawalka Adam,Lewandowski Robert,Cristiano Ronaldo,Buffon Gianluigi
+262,Coach,Portugal,Santos Fernando,Cristiano Ronaldo,Modric Luka,Messi Lionel
+263,Coach,Qatar,Sanchez Bas Felix,Messi Lionel,Neymar,Cristiano Ronaldo
+264,Coach,Republic of Ireland,O'Neill Martin,Cristiano Ronaldo,Messi Lionel,Hazard Eden
+265,Coach,Romania,Daum Christoph,Kroos Toni,Lewandowski Robert,Messi Lionel
+266,Coach,Russia,Cherchesov Stanislav,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+267,Coach,Samoa,Valerio Raccuglia,Cristiano Ronaldo,Buffon Gianluigi,Hazard Eden
+268,Coach,San Marino,Manzaroli Pierangelo,Cristiano Ronaldo,Kroos Toni,Buffon Gianluigi
+269,Coach,Saudi Arabia,Van Marwijk Lambertus,Cristiano Ronaldo,Messi Lionel,Neymar
+270,Coach,Scotland,Strachan Gordon,Modric Luka,Kanté N'Golo,Messi Lionel
+271,Coach,Serbia,Muslin Slavoljub,Cristiano Ronaldo,Modric Luka,Kanté N'Golo
+272,Coach,Sierra Leone,Kamara Abu Bakar,Cristiano Ronaldo,Messi Lionel,Neymar
+273,Coach,Singapore,Sundram Moorthy V,Messi Lionel,Cristiano Ronaldo,Hazard Eden
+274,Coach,Slovakia,Kozak Jan,Cristiano Ronaldo,Messi Lionel,Ramos Sergio
+275,Coach,Slovenia,Katanec Srecko,Cristiano Ronaldo,Messi Lionel,Neymar
+276,Coach,South Africa,Baxter Stuart,Messi Lionel,Hazard Eden,Iniesta Andrés
+277,Coach,Spain,Lopetegui Agote Julen,Ramos Sergio,Carvajal Dani,Iniesta Andrés
+278,Coach,St. Lucia,Lastic Francis,Cristiano Ronaldo,Messi Lionel,Neymar
+279,Coach,Sudan,Ahmed Mohamed Abdalla,Cristiano Ronaldo,Carvajal Dani,Aubameyang Pierre-Emerick
+280,Coach,Sweden,Andersson Jan,Cristiano Ronaldo,Ibrahimovic Zlatan,Modric Luka
+281,Coach,Switzerland,Petkovic Vladimir,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+282,Coach,Syria,Alhakim Ayman,Cristiano Ronaldo,Neymar,Messi Lionel
+283,Coach,Tahiti,Ludovic Graugnard,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+284,Coach,Tajikistan,Fuzaylov Khakim,Cristiano Ronaldo,Buffon Gianluigi,Marcelo
+285,Coach,Tanzania,Mayanga Salum,Cristiano Ronaldo,Messi Lionel,Neymar
+286,Coach,Thailand,Rajevac Milovan,Cristiano Ronaldo,Messi Lionel,Kroos Toni
+287,Coach,Togo,Le Roy Claude,Cristiano Ronaldo,Modric Luka,Messi Lionel
+288,Coach,Tonga,Moleni Timote,Messi Lionel,Neymar,Cristiano Ronaldo
+289,Coach,Trinidad and Tobago,Lawrence Dennis,Messi Lionel,Cristiano Ronaldo,Hazard Eden
+290,Coach,Tunisia,Malloul Nabil,Cristiano Ronaldo,Neymar,Buffon Gianluigi
+291,Coach,Turkey,Lucescu Mircea,Messi Lionel,Ramos Sergio,Modric Luka
+292,Coach,Turkmenistan,Hojageldiyev Yazguly,Cristiano Ronaldo,Buffon Gianluigi,Sanchez Alexis
+293,Coach,Uganda,Basena Moses,Cristiano Ronaldo,Dybala Paulo,Lewandowski Robert
+294,Coach,Ukraine,Shevchenko Andriy,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+295,Coach,Uruguay,Tabarez Oscar Washington,Cristiano Ronaldo,Messi Lionel,Suárez Luis
+296,Coach,USA,Arena Bruce,Cristiano Ronaldo,Modric Luka,Hazard Eden
+297,Coach,Uzbekistan,Babayan Samvel,Cristiano Ronaldo,Messi Lionel,Hazard Eden
+298,Coach,Venezuela,Dudamel Ochoa Rafael Edgar,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+299,Coach,Vietnam,Nguyen Huu Thang,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+300,Coach,Wales,Coleman Christopher,Ramos Sergio,Modric Luka,Kane Harry
+301,Coach,Zambia,Nyirenda Wedson,Cristiano Ronaldo,Messi Lionel,Aubameyang Pierre-Emerick
+302,Coach,Zimbabwe,Mapeza Norman,Cristiano Ronaldo,Messi Lionel,Kroos Toni
+303,Media,Afghanistan,Zaland Sayer,Cristiano Ronaldo,Neymar,Bonucci Leonardo
+304,Media,American Samoa,Vitolio Brian,Cristiano Ronaldo,Messi Lionel,Suárez Luis
+305,Media,Andorra,Duaso Victor,Messi Lionel,Cristiano Ronaldo,Buffon Gianluigi
+306,Media,Angola,Quiala Geraldo,Cristiano Ronaldo,Messi Lionel,Neymar
+307,Media,Armenia,Gasparyan Robert,Buffon Gianluigi,Cristiano Ronaldo,Modric Luka
+308,Media,Aruba,Thomas Kurt,Messi Lionel,Cristiano Ronaldo,Neuer Manuel
+309,Media,Australia,Larkin Steve,Cristiano Ronaldo,Messi Lionel,Neymar
+310,Media,Austria,Lackner Gerhard,Cristiano Ronaldo,Buffon Gianluigi,Modric Luka
+311,Media,Azerbaijan,Movsumov Rasim,Cristiano Ronaldo,Ramos Sergio,Buffon Gianluigi
+312,Media,Bahrain,Ashoor Abdullah,Cristiano Ronaldo,Neymar,Buffon Gianluigi
+313,Media,Bangladesh,Mahamud Raihan,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+314,Media,Barbados,Agard Rachel,Messi Lionel,Iniesta Andrés,Cristiano Ronaldo
+315,Media,Belgium,Terreur Kristof,Cristiano Ronaldo,Messi Lionel,Neymar
+316,Media,Belize,Cantillano Fredy,Messi Lionel,Suárez Luis,Sanchez Alexis
+317,Media,Benin,Sounde Peperipe Felix,Cristiano Ronaldo,Messi Lionel,Neymar
+318,Media,Bermuda,Wright Steve,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+319,Media,Bhutan,Zam Namgay,Cristiano Ronaldo,Neymar,Buffon Gianluigi
+320,Media,Bosnia and Herzegovina,Tanovic Muamer,Cristiano Ronaldo,Buffon Gianluigi,Neymar
+321,Media,Botswana,Gnangkenna Duncan,Cristiano Ronaldo,Suárez Luis,Messi Lionel
+322,Media,Brazil,Coelho Paulo Vinicius,Cristiano Ronaldo,Messi Lionel,Marcelo
+323,Media,British Virgin Islands,Jackson Charlie,Aubameyang Pierre-Emerick,Cristiano Ronaldo,Ibrahimovic Zlatan
+324,Media,Bulgaria,Boychev Bojan Yanev,Cristiano Ronaldo,Kroos Toni,Buffon Gianluigi
+325,Media,Burundi,Kibuga Ramadhani,Cristiano Ronaldo,Ramos Sergio,Messi Lionel
+326,Media,Cambodia,Chamroeun Ung,Cristiano Ronaldo,Kane Harry,Messi Lionel
+327,Media,Cameroon,Samnick Emmanuel Gustave,Cristiano Ronaldo,Marcelo,Buffon Gianluigi
+328,Media,Canada,Davidson Neil,Cristiano Ronaldo,Messi Lionel,Kanté N'Golo
+329,Media,Cape Verde Islands,Amaral André,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+330,Media,Cayman Islands,Maede Ben,Cristiano Ronaldo,Sanchez Alexis,Ibrahimovic Zlatan
+331,Media,Central African Republic,Pabandji Pacôme,Aubameyang Pierre-Emerick,Cristiano Ronaldo,Kanté N'Golo
+332,Media,Chile,Diaz Danilo,Cristiano Ronaldo,Messi Lionel,Kroos Toni
+333,Media,China PR,Zhang Miao,Cristiano Ronaldo,Buffon Gianluigi,Hazard Eden
+334,Media,Colombia,Rueda Diego,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+335,Media,Comoros,Djouma Elie,Cristiano Ronaldo,Buffon Gianluigi,Aubameyang Pierre-Emerick
+336,Media,Congo,Kaba Emmanuel,Messi Lionel,Cristiano Ronaldo,Dybala Paulo
+337,Media,Congo DR,Kabulo François,Cristiano Ronaldo,Buffon Gianluigi,Marcelo
+338,Media,Costa Rica,Goldberg David,Cristiano Ronaldo,Modric Luka,Kanté N'Golo
+339,Media,Croatia,Matteoni Robert,Cristiano Ronaldo,Messi Lionel,Modric Luka
+340,Media,Cuba,Canco Yasiel,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+341,Media,Cyprus,Violaris Andreas,Cristiano Ronaldo,Buffon Gianluigi,Kanté N'Golo
+342,Media,Denmark,Olsen Allan,Cristiano Ronaldo,Messi Lionel,Hazard Eden
+343,Media,Djibouti,Kenadid Mohammed,Neymar,Cristiano Ronaldo,Messi Lionel
+344,Media,Dominica,Richards Garvin,Cristiano Ronaldo,Messi Lionel,Neymar
+345,Media,Dominican Republic,Bauger Jorge Rolando,Cristiano Ronaldo,Kroos Toni,Buffon Gianluigi
+346,Media,Ecuador,Rosales Cox Tito,Cristiano Ronaldo,Ramos Sergio,Messi Lionel
+347,Media,Egypt,Danial Hany,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+348,Media,El Salvador,Campos Madrid Gabriel,Cristiano Ronaldo,Buffon Gianluigi,Neymar
+349,Media,England,Rumsby Ben,Cristiano Ronaldo,Messi Lionel,Modric Luka
+350,Media,Equitorial Guinea,Essiane Fabien,Cristiano Ronaldo,Vidal Arturo,Neymar
+351,Media,Eritrea,Seium Michael,Neymar,Aubameyang Pierre-Emerick,Sanchez Alexis
+352,Media,Estonia,Suvari Aet,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+353,Media,Ethiopia,Abdulkeni Hussen,Cristiano Ronaldo,Messi Lionel,Neymar
+354,Media,Faroe Islands,Olsen Símun Christian,Messi Lionel,Cristiano Ronaldo,Ramos Sergio
+355,Media,Finland,Sundelin Saku-Pekka,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+356,Media,France,Resseguie Jean,Cristiano Ronaldo,Ramos Sergio,Buffon Gianluigi
+357,Media,FYR Macedonia,Durgutov Mijalce,Cristiano Ronaldo,Buffon Gianluigi,Marcelo
+358,Media,Gabon,Moussodji Ngoma Pablo,Cristiano Ronaldo,Neymar,Messi Lionel
+359,Media,Gambia,Camara Baboucar,Cristiano Ronaldo,Ramos Sergio,Kanté N'Golo
+360,Media,Georgia,Potskhveria Zurab,Cristiano Ronaldo,Neymar,Marcelo
+361,Media,Germany,Mueller-Hohenstein Kathrin,Kroos Toni,Neuer Manuel,Lewandowski Robert
+362,Media,Gibraltar,Ignacio Stephen,Cristiano Ronaldo,Messi Lionel,Hazard Eden
+363,Media,Greece,Kotsis Nikolaos,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+364,Media,Grenada,Bascombe Michael,Messi Lionel,Cristiano Ronaldo,Suárez Luis
+365,Media,Guam,Shedd Jay,Cristiano Ronaldo,Messi Lionel,Lewandowski Robert
+366,Media,Guatemala,Solares Lucho,Cristiano Ronaldo,Messi Lionel,Navas Keylor
+367,Media,Guinea-Bissau,Ucha Etiandro,Cristiano Ronaldo,Neymar,Messi Lionel
+368,Media,Haiti,Leon Lutherson,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+369,Media,Honduras,Carias Gonzalo,Cristiano Ronaldo,Buffon Gianluigi,Dybala Paulo
+370,Media,Hungary,Szeli Matyas,Cristiano Ronaldo,Modric Luka,Buffon Gianluigi
+371,Media,Iceland,Sigurdsson Vidir,Messi Lionel,Cristiano Ronaldo,Suárez Luis
+372,Media,India,Sarkar Dhiman,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+373,Media,Iran,Chia Foadi,Cristiano Ronaldo,Neymar,Messi Lionel
+374,Media,Iraq,Al Saedi Arshed Sabah,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+375,Media,Israel,Dagon Uri,Cristiano Ronaldo,Modric Luka,Bonucci Leonardo
+376,Media,Italy,Licari Fabio,Cristiano Ronaldo,Buffon Gianluigi,Modric Luka
+377,Media,Japan,Tsuchiya Kentaro,Cristiano Ronaldo,Ramos Sergio,Buffon Gianluigi
+378,Media,Jordan,Al Omiri Tayseer,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+379,Media,Kazakhstan,Tulegenov Geniy,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+380,Media,Kenya,Toskin Robin,Cristiano Ronaldo,Sanchez Alexis,Buffon Gianluigi
+381,Media,Korea Republic,Yoo Jeeho,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+382,Media,Kuwait,Adnad Yousif,Cristiano Ronaldo,Messi Lionel,Kroos Toni
+383,Media,Latvia,Koscinkevic Ilvars,Cristiano Ronaldo,Messi Lionel,Ramos Sergio
+384,Media,Liberia,Kollie Garzeawu Moses,Cristiano Ronaldo,Messi Lionel,Bonucci Leonardo
+385,Media,Liechtenstein,Hasler Ernst,Cristiano Ronaldo,Modric Luka,Bonucci Leonardo
+386,Media,Lithuania,Mindaugas Augustis,Messi Lionel,Cristiano Ronaldo,Buffon Gianluigi
+387,Media,Luxembourg,Lahure Petz Antoine,Cristiano Ronaldo,Buffon Gianluigi,Neymar
+388,Media,Lybia,El Amari Haithem Miftah,Cristiano Ronaldo,Buffon Gianluigi,Neymar
+389,Media,Macau,Maia Pedro,Cristiano Ronaldo,Messi Lionel,Kroos Toni
+390,Media,Malawi,Kanjere Peter,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+391,Media,Malaysia,Samuel Eric,Cristiano Ronaldo,Messi Lionel,Neymar
+392,Media,Maldives,Ali Shimaz,Cristiano Ronaldo,Messi Lionel,Neymar
+393,Media,Mali,Diakite Boubacar,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+394,Media,Malta,Moore Jesmond,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+395,Media,Mauritius,Hydoo Azmaal,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+396,Media,Mexico,Blancas Avalos Ricardo Amado,Cristiano Ronaldo,Neymar,Ramos Sergio
+397,Media,Moldova,Goihman Miron,Cristiano Ronaldo,Buffon Gianluigi,Vidal Arturo
+398,Media,Mongolia,Enkhtuvshin Tserensodnom,Cristiano Ronaldo,Neymar,Messi Lionel
+399,Media,Morocco,Bouzrara Jalal,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+400,Media,Myanmar,Htut Win Myat,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+401,Media,Namibia,Kapanga Hesron,Cristiano Ronaldo,Aubameyang Pierre-Emerick,Hazard Eden
+402,Media,Nepal,Rijal Ritesh,Cristiano Ronaldo,Messi Lionel,Neymar
+403,Media,Netherlands,De Groot Jaap,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+404,Media,New Caledonia,Cambefort Yoann,Ramos Sergio,Cristiano Ronaldo,Kanté N'Golo
+405,Media,New Zealand,Burgess Michael,Cristiano Ronaldo,Messi Lionel,Kroos Toni
+406,Media,Niger,Ganoua Mohamed Silimane,Cristiano Ronaldo,Kanté N'Golo,Ramos Sergio
+407,Media,Northern Ireland,Mcintosh Mark,Cristiano Ronaldo,Messi Lionel,Ramos Sergio
+408,Media,Oman,Purohit Ashok,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+409,Media,Pakistan,Amjad Aziz Malik,Messi Lionel,Cristiano Ronaldo,Neymar
+410,Media,Panama,Estrada Campo Elia,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+411,Media,Peru,Canelo Quispe Pedro Eduardo,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+412,Media,Philippines,Fenix Ryan,Cristiano Ronaldo,Neymar,Ramos Sergio
+413,Media,Poland,Pol Michal,Cristiano Ronaldo,Buffon Gianluigi,Ramos Sergio
+414,Media,Portugal,Serpa Vitor,Cristiano Ronaldo,Neymar,Messi Lionel
+415,Media,Puerto Rico,Pagan Esteban,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+416,Media,Qatar,Anil John,Messi Lionel,Cristiano Ronaldo,Buffon Gianluigi
+417,Media,Republic of Ireland,Quinn Philip,Cristiano Ronaldo,Lewandowski Robert,Modric Luka
+418,Media,Romania,Gafiuc Justin Paul,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+419,Media,Rwanda,Imanishimwe Sammy,Buffon Gianluigi,Messi Lionel,Cristiano Ronaldo
+420,Media,San Marino,Gorini Elia,Cristiano Ronaldo,Modric Luka,Ramos Sergio
+421,Media,Scotland,Castles Duncan,Cristiano Ronaldo,Messi Lionel,Marcelo
+422,Media,Serbia,Rasevic Milan,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+423,Media,Seychelles,Govinden Gérard,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+424,Media,Sierra Leone,Sahr Morris Jr,Cristiano Ronaldo,Buffon Gianluigi,Aubameyang Pierre-Emerick
+425,Media,Slovakia,Zeman Michal,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+426,Media,Slovenia,Sabadin Denis,Cristiano Ronaldo,Buffon Gianluigi,Modric Luka
+427,Media,Solomon Islands,Utukana Crofton,Neymar,Cristiano Ronaldo,Messi Lionel
+428,Media,Somalia,Guurre Gamadiid,Messi Lionel,Cristiano Ronaldo,Buffon Gianluigi
+429,Media,South Africa,Marawa Robert,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+430,Media,South Sudan,Kayanga John,Cristiano Ronaldo,Messi Lionel,Hazard Eden
+431,Media,Spain,Aguilar Francesc Paco,Modric Luka,Cristiano Ronaldo,Messi Lionel
+432,Media,Sri Lanka,Gonawela Deshan,Cristiano Ronaldo,Messi Lionel,Ramos Sergio
+433,Media,St. Lucia,Finisterre Terry,Cristiano Ronaldo,Messi Lionel,Neymar
+434,Media,Sudan,Awadalla Mohammed Al-Khatim,Messi Lionel,Neymar,Dybala Paulo
+435,Media,Suriname,Romeo Desney,Cristiano Ronaldo,Modric Luka,Buffon Gianluigi
+436,Media,Sweden,Bank Simon,Cristiano Ronaldo,Messi Lionel,Neymar
+437,Media,Switzerland,Test_Flepp_Mixed Louis,Aubameyang Pierre-Emerick,Bonucci Leonardo,Hazard Eden
+438,Media,Switzerland,Boeni Andreas,Cristiano Ronaldo,Messi Lionel,Kroos Toni
+439,Media,Syria,Abou Shameh Louay,Cristiano Ronaldo,Buffon Gianluigi,Neymar
+440,Media,Tahiti,Huc Olivier,Cristiano Ronaldo,Messi Lionel,Neymar
+441,Media,Tajikistan,Soliev Faridun,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+442,Media,Thailand,Chittinand Tor,Cristiano Ronaldo,Sanchez Alexis,Aubameyang Pierre-Emerick
+443,Media,Togo,Ayena Mathias,Cristiano Ronaldo,Buffon Gianluigi,Ramos Sergio
+444,Media,Tunisia,Ghdiri Tarek,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+445,Media,Turkmenistan,Vershinin Alexander,Messi Lionel,Iniesta Andrés,Sanchez Alexis
+446,Media,Turks and Caicos Islands,Deo Faizool,Cristiano Ronaldo,Messi Lionel,Lewandowski Robert
+447,Media,Uganda,Kaweesi Fred,Cristiano Ronaldo,Buffon Gianluigi,Bonucci Leonardo
+448,Media,Ukraine,Frankov Artem,Cristiano Ronaldo,Buffon Gianluigi,Hazard Eden
+449,Media,United Arab Emirates,Meenaghan Gary,Modric Luka,Messi Lionel,Marcelo
+450,Media,USA,Bell Arch,Cristiano Ronaldo,Messi Lionel,Neymar
+451,Media,Uzbekistan,Fayziyev Davron,Cristiano Ronaldo,Messi Lionel,Buffon Gianluigi
+452,Media,Vanuatu,Nase Raymond,Kane Harry,Cristiano Ronaldo,Neymar
+453,Media,Venezuela,Perozo Suárez Humberto,Cristiano Ronaldo,Buffon Gianluigi,Messi Lionel
+454,Media,Vietnam,Nguyen Minh Viet,Cristiano Ronaldo,Marcelo,Hazard Eden
+455,Media,Wales,Abbandonato Paul,Cristiano Ronaldo,Bonucci Leonardo,Neymar
+456,Media,Yemen,Alzakary Ali,Messi Lionel,Neymar,Cristiano Ronaldo
+457,Media,Zambia,Chipepo Elias,Cristiano Ronaldo,Ramos Sergio,Ibrahimovic Zlatan
+458,Media,Zimbabwe,Sabeta Chipo,Cristiano Ronaldo,Hazard Eden,Messi Lionel
